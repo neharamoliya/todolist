@@ -1,0 +1,60 @@
+body{
+  background-color:#e3e9ff;
+}
+.box{
+  margin-left:35px;
+  margin-top: 70px;
+}
+p{
+  margin-bottom:-40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.addbtn{
+  margin: 4px;
+  padding:10px;
+  font-size: 16px
+}
+li{
+  list-style: none;
+}
+.event{
+  margin: 7px;
+}
+.input{
+  border-radius: 10px;
+  border: none;
+  padding: 7px;
+}
+.search{
+  margin-top: -10px;
+  font-size: 14px;
+}
+.serch-bar{
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+}
+.event button{
+  margin: 4px;
+  padding: 7px;
+  font-size: 16px;
+}
+.del{
+  margin: 4px;
+  font-size: 16px;
+  padding: 9px;
+}
+.edit{
+  font-size: 16px;
+  padding: 9px;
+}
+.check{
+  height: 15px;
+  width: 15px;
+}
+button{
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+}
